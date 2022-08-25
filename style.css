@@ -1,0 +1,12 @@
+h1 {text-align:center; color: rgb(0, 0, 0);}
+h1 {text-decoration-line: underline;}
+h1 {font-family:Arial Black;}
+h1 {font-size:40px;}
+
+form {text-align: center;color:rgb(14, 4, 156);}
+form {font-family:Century;}
+form {font-size:20px;}
+
+nav a, button{min-width: 50px;min-height: 50px;}
+
+body {background-color:rgb(60, 217, 228);}
